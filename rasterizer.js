@@ -1,5 +1,5 @@
-import {Vector} from "./modules/vector.js";
-import {Triangle} from "./modules/triangle.js";
+import {Vector} from "./vector.js";
+import {Triangle} from "./triangle.js";
 
 
 const canvas = document.getElementById("canvas");
